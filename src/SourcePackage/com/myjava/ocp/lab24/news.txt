@@ -1,0 +1,6 @@
+welcome hi
+welcome hello
+apple
+banana
+apple
+banana
